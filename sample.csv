@@ -1,0 +1,40 @@
+"Research Use Only, Not for use in Diagnostic Procedures"
+
+IVUS Version = 3.5.0.0.2957 
+
+FFR Version = 2.4.1.2723
+
+Patch Version = 
+
+Patient ID = 2262093392
+
+       Run,        FFR, FFR (ms),        iFR, Start Time
+1, 0.89, 208516, , 11:53:50
+2, 0.74, 58990, , 12:47:20
+3, 0.84, 10162, , 13:31:08
+4, 0.75, 108895, , 14:14:43
+5, 0.63, 53858, , 16:14:54
+6, 0.48, 64574, , 17:54:21
+7, 0.00, 706859, , 18:45:00
+
+Note: each row represents 5 msec
+New pressure data every 5 msec - units are mmHg
+Aortic high level channel and MAPa are shown
+Bookmarks are numbered as entered
+R-Wave indicates start of cardiac cycle - used only if ECG was available and selected
+ECG waveform data scaled from 0 to 4095
+
+        Pd,       Pa-H,       MAPd,       MAPa, Bookmark, R-Wave,        ECG, Time
+
+------ Run # 1 ------
+118.25, 119.75, 115, 116, 0, 0, 2048, 11:53:50.000
+117.50, 119.50, 115, 116, 0, 0, 2048, 11:53:50.005
+117.00, 119.00, 115, 116, 0, 0, 2048, 11:53:50.010
+117.00, 119.00, 115, 116, 0, 0, 2048, 11:53:50.015
+117.00, 118.75, 115, 116, 0, 0, 2049, 11:53:50.020
+117.00, 118.00, 115, 116, 0, 0, 2049, 11:53:50.025
+117.00, 118.00, 115, 116, 0, 0, 2049, 11:53:50.030
+117.00, 118.00, 115, 116, 0, 0, 2049, 11:53:50.035
+117.00, 117.75, 115, 116, 0, 0, 2048, 11:53:50.040
+116.75, 117.25, 115, 116, 0, 0, 2048, 11:53:50.045
+116.50, 117.25, 115, 116, 0, 0, 2049, 11:53:50.050
