@@ -33,7 +33,37 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../../com/dxc/bitbucket/DXC_ingest/doc/cdi.md">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../../com/dxc/bitbucket/DXC_ingest/ingest/cdi_car-data-ingestor/cdi_car_data_ingestor/__main__.py">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../com/dxc/bitbucket/DXC_ingest/ingest/cdi_car-data-ingestor/cdi_car_data_ingestor/environment/localenvironment.py">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../com/dxc/bitbucket/DXC_ingest/ingest/cdi_car-data-ingestor/unit_test/test_ingest_workflow.py">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/.gitignore">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/data/config.ini">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/data/config.yml">
           <value>
             <set />
           </value>
@@ -48,12 +78,32 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/datawrangler/__init__.py">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/datawrangler/__main__.py">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/demo.py">
           <value>
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/readme.md">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/setup.py">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/unittests/testcore.py">
           <value>
             <set />
           </value>

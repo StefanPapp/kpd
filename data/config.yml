@@ -1,0 +1,8 @@
+broker:
+  host: localhost
+  port: 9092
+
+files:
+  dir: /workspace/src/com/byr/digilab/data/csv
+  schema: none
+  topic: test
