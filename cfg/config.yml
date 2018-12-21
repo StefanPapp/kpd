@@ -3,6 +3,6 @@ broker:
   port: 9092
 
 files:
-  dir: /workspace/src/com/byr/digilab/data/csv
+  dir: /workspace/src/com/byr/data/kmi
   schema: none
-  topic: test
+  topic: kmi_test
