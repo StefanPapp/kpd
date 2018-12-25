@@ -13,9 +13,6 @@ from pykafka import KafkaClient
 def _eval_args(args):
     parser = argparse.ArgumentParser()
     parser.add_argument('-c', '--config', help='path to config', required=True)
-    # parser.add_argument('-t', '--topic', help='topic to load', required=True)
-    # parser.add_argument('-d', '--directory', help='directory', required=True)
-
     args = parser.parse_args(args)
     return args
 
